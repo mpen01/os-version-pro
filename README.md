@@ -9,6 +9,7 @@ Ubersicht widget to display Mac operating system name, version and build on the 
 
 ## Screenshot
 
+![alt text](https://github.com/mpen01/os-version-pro/blob/master/screenshot.png "OS Version Screenshot")
 
 ## Acknowledgments
 

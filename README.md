@@ -1,5 +1,6 @@
 # OS Version Pro
-Ubersicht widget to display Mac operating system name, version and build on the desktop
+Ubersicht widget to display Mac operating system name, version and build on the desktop.  The Build number can be
+hidden and the widget is themable.  Four themes are included: mono, paper, dark and color.  
 
 ## Meta
 
